@@ -57,7 +57,7 @@ dataset = "./data/"  # update to your local path
 ## 3. Installation
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/HoMinhDang/CBiFNet.git
 cd CBiFNet
 pip install -r requirements.txt
 ```
